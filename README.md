@@ -23,7 +23,7 @@ Vous veillerez à produire des schémas UML cohérents par rapport au cahier des
 
 Schémas demandés :
 
-Diagrammes de cas d’utilisation (création d’une commande, ajout d’un plat du jour, livraison d’une commande)
-Modèle de données
-Diagramme de classes
-Diagrammes de séquences (création d’une commande, ajout d’un plat du jour, livraison d’une commande)
+- Diagrammes de cas d’utilisation (création d’une commande, ajout d’un plat du jour, livraison d’une commande)
+- Modèle de données
+- Diagramme de classes
+- Diagrammes de séquences (création d’une commande, ajout d’un plat du jour, livraison d’une commande)
